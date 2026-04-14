@@ -106,6 +106,4 @@ python3 scripts/dvfs_bitnet_5format.py
 python3 scripts/clkglitch_qnn_5format.py
 ```
 
-## Authors
 
-Dillibabu Shanmugam, Patrick Schaumont — Worcester Polytechnic Institute
