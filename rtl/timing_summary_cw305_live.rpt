@@ -2,8 +2,8 @@ Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2020.2 (lin64) Build 3064766 Wed Nov 18 09:12:47 MST 2020
 | Date         : Tue Apr 14 01:29:33 2026
-| Host         : dillibabus-laptop running 64-bit Ubuntu 20.04.6 LTS
-| Command      : report_timing_summary -file /media/dillibabu/PortableSSD/claudecode/NEWHS/mx-unified-coprocessor-hw-08mar2026/fpga/cw305_live/build/reports.impl/timing_summary.rpt
+| Host         : build-host running 64-bit Ubuntu 20.04.6 LTS
+| Command      : report_timing_summary -file reports.impl/timing_summary.rpt
 | Design       : croc_cw305
 | Device       : 7a35t-ftg256
 | Speed File   : -2  PRODUCTION 1.23 2018-06-13

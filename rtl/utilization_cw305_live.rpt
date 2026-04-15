@@ -2,7 +2,7 @@ Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
 -----------------------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2020.2 (lin64) Build 3064766 Wed Nov 18 09:12:47 MST 2020
 | Date         : Tue Apr 14 01:28:05 2026
-| Host         : dillibabus-laptop running 64-bit Ubuntu 20.04.6 LTS
+| Host         : build-host running 64-bit Ubuntu 20.04.6 LTS
 | Command      : report_utilization -file croc_cw305_utilization_placed.rpt -pb croc_cw305_utilization_placed.pb
 | Design       : croc_cw305
 | Device       : 7a35tftg256-2
